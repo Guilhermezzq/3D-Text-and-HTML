@@ -2,7 +2,6 @@
 
 The code above seems to be an interactive three-dimensional scene rendered using Three.js, a JavaScript library for creating and displaying 3D graphics in the browser. Here's a description based on the properties used:
 
-
 # Text3D
 
 This component renders three-dimensional text in the scene. The properties used include:
